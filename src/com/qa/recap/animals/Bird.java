@@ -1,4 +1,4 @@
-package com.qa.recap;
+package com.qa.recap.animals;
 
 public abstract class Bird extends Animal {
 

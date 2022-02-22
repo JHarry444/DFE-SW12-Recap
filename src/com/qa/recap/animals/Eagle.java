@@ -1,4 +1,4 @@
-package com.qa.recap;
+package com.qa.recap.animals;
 
 public class Eagle extends FlyingBird {
 

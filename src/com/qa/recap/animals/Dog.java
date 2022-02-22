@@ -1,4 +1,4 @@
-package com.qa.recap;
+package com.qa.recap.animals;
 
 public class Dog extends Mammal {
 
@@ -32,7 +32,7 @@ public class Dog extends Mammal {
 
 	@Override
 	public String toString() {
-		return "Dog [breed=" + this.breed + ", getName()=" + this.getName() + ", getAge()=" + this.getAge() + "]";
+		return "Dog [breed=" + this.breed + ", name=" + this.getName() + ", age=" + this.getAge() + "]";
 	}
 
 	@Override

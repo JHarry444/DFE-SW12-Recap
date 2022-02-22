@@ -1,4 +1,4 @@
-package com.qa.recap;
+package com.qa.recap.animals;
 
 public class Cat extends Animal {
 
@@ -23,7 +23,7 @@ public class Cat extends Animal {
 
 	@Override
 	public String toString() {
-		return "Cat [isDemon=" + this.isDemon + ", getName()=" + this.getName() + ", getAge()=" + this.getAge() + "]";
+		return "Cat [isDemon=" + this.isDemon + ", name=" + this.getName() + ", age=" + this.getAge() + "]";
 	}
 
 }
